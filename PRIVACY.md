@@ -1,6 +1,6 @@
 # Kedi Kulesi · Gizlilik Politikası / Privacy Policy
 
-Son güncelleme / Last updated: 7 Ekim 2026 / October 7, 2026 (sürüm 1.2)
+Son güncelleme / Last updated: 7 Ekim 2026 / October 7, 2026 (sürüm 1.3)
 
 [Türkçe](#türkçe) · [English](#english)
 
@@ -38,7 +38,7 @@ Oyun içi satın almalar (reklamları kaldırma, bölge ve Sonsuz Mod kilitleri,
 "Paylaş" düğmesine bastığında sonuç görseli ve metni, Android'in paylaşım menüsünde senin seçtiğin uygulamaya gönderilir. Bu işlem yalnızca sen istediğinde olur; biz herhangi bir şey almayız.
 
 ### İzinler
-Oyun yalnızca internet erişimi (reklamlar için), titreşim ve Google Play faturalandırma iznini kullanır. Kamera, mikrofon, rehber ya da konum izni istemez.
+Oyun yalnızca internet erişimi (reklamlar için), titreşim, Google Play faturalandırma ve bildirim iznini kullanır. Bildirim izni yalnızca günde en fazla bir kez gösterilen "günlük ödülün hazır" hatırlatması içindir; hatırlatma cihazında zamanlanır, hiçbir sunucuya bilgi gönderilmez ve oyunun Ayarlar ekranından kapatılabilir. Kamera, mikrofon, rehber ya da konum izni istemez.
 
 ### Çocuklar
 Oyun 13 yaş ve üzeri için tasarlanmıştır ve bilerek 13 yaşından küçük çocuklardan kişisel bilgi toplamaz. Reklamlar "Ebeveyn rehberliği" (PG) içerik düzeyiyle sınırlandırılmıştır.
@@ -83,7 +83,7 @@ In-app purchases (remove ads, area and Endless unlocks, kibble packs, the Great 
 When you tap "Share", the result image and text are handed to the app you pick in Android's share sheet. This only happens when you choose to; we receive nothing.
 
 ### Permissions
-The game only uses internet access (for ads), vibration and Google Play billing. It does not ask for camera, microphone, contacts or location permissions.
+The game only uses internet access (for ads), vibration, Google Play billing and notifications. The notification permission is used only for a "your daily reward is ready" reminder shown at most once a day; it is scheduled on your device, nothing is sent to any server, and it can be turned off in the game's Settings. It does not ask for camera, microphone, contacts or location permissions.
 
 ### Children
 The game is designed for ages 13 and up and does not knowingly collect personal information from children under 13. Ads are limited to the "Parental Guidance" (PG) content rating.
