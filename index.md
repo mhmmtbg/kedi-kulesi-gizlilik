@@ -4,7 +4,7 @@ title: Kedi Kulesi · Gizlilik Politikası / Privacy Policy
 
 # Kedi Kulesi · Gizlilik Politikası / Privacy Policy
 
-Son güncelleme / Last updated: 7 Ekim 2026 / October 7, 2026 (sürüm 1.1)
+Son güncelleme / Last updated: 7 Ekim 2026 / October 7, 2026 (sürüm 1.2)
 
 [Türkçe](#türkçe) · [English](#english)
 
@@ -28,6 +28,12 @@ Bu bilgiler Google tarafından, [Google Gizlilik Politikası](https://policies.g
 Avrupa Ekonomik Alanı, Birleşik Krallık ve İsviçre'de oyun ilk açılışta Google'ın izin formunu gösterir; kişiselleştirilmiş reklamlara izin verip vermemeyi sen seçersin. Seçimini istediğin zaman **Ayarlar → Gizlilik Seçenekleri** bölümünden değiştirebilirsin. Cihazının **Ayarlar → Google → Reklamlar** bölümünden reklam kimliğini sıfırlayabilir ya da silebilirsin.
 
 Ödüllü reklamlar (ikinci şans, mamayı ikiye katlama, dolaptaki mama ödülü) tamamen isteğe bağlıdır. Oyunda banner reklam yoktur.
+
+### Google Play Oyunlar
+Google Play Oyunlar'a giriş yaparsan oyun ilerlemen (bölümler, yıldızlar, mama, aksesuarlar) Google'ın kayıtlı oyun hizmetinde senin hesabına saklanır; rekorların liderlik tablolarına, başarımların Play profiline gönderilir. Bu veriler Google tarafından [Google Gizlilik Politikası](https://policies.google.com/privacy)'na göre işlenir; biz yalnızca oyun içinden kendi kaydına erişiriz.
+
+### Çökme raporları ve kullanım istatistikleri (Firebase)
+Oyunu iyileştirmek için Google Firebase Analytics ve Crashlytics kullanılabilir: hangi bölümün oynandığı, kazanılıp kaybedildiği, hangi gücün kullanıldığı gibi oyun olayları ile çökme anındaki cihaz ve uygulama bilgileri (model, Android sürümü, uygulama örneği kimliği) toplanır. Bu bilgiler kimliğinle eşleştirilmez, reklam için kullanılmaz ve satılmaz.
 
 ### Satın alımlar
 Oyun içi satın almalar (reklamları kaldırma, bölge ve Sonsuz Mod kilitleri, mama paketleri, Great Bundle) tamamen Google Play üzerinden yapılır. Ödeme bilgilerin Google'da kalır; oyun yalnızca hangi ürünlere sahip olduğunu Google Play'den sorar ve sonucu cihazında saklar. Bize herhangi bir ödeme ya da kimlik bilgisi gelmez.
@@ -67,6 +73,12 @@ Google processes this information under the [Google Privacy Policy](https://poli
 In the European Economic Area, the UK and Switzerland, the game shows Google's consent form on first launch, and you choose whether to allow personalised ads. You can change your choice at any time in **Settings → Privacy Options**. You can reset or delete your advertising ID in your device's **Settings → Google → Ads**.
 
 Rewarded ads (second chance, double kibble, closet kibble reward) are entirely optional. There are no banner ads.
+
+### Google Play Games
+If you sign in to Google Play Games, your game progress (levels, stars, kibble, items) is stored in Google's saved games service under your account; your records go to leaderboards and your achievements to your Play profile. Google processes this data under the [Google Privacy Policy](https://policies.google.com/privacy); we only access your own save from within the game.
+
+### Crash reports and usage statistics (Firebase)
+To improve the game we may use Google Firebase Analytics and Crashlytics: game events such as which level was played, won or lost and which power-up was used, plus device and app details at the moment of a crash (model, Android version, app instance ID). This is not linked to your identity, not used for advertising and never sold.
 
 ### Purchases
 In-app purchases (remove ads, area and Endless unlocks, kibble packs, the Great Bundle) are handled entirely by Google Play. Your payment details stay with Google; the game only asks Google Play which items you own and stores the answer on your device. We never receive payment or identity information.
